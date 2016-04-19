@@ -44,3 +44,4 @@ set mouse=a
 
 " Clipboard integration
 vmap <C-c> "+y
+map <C-v> :r!xclip -o<CR>
