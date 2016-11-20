@@ -30,3 +30,7 @@ export ELM_SCALE=1.5
 # Golang
 export GOPATH=/home/christian/src/go
 export PATH=$PATH:$GOPATH/bin
+
+# Grunt
+#export NPM_CONFIG_PREFIX="${HOME}/.node"
+#export PATH="${NPM_CONFIG_PREFIX}/bin:${PATH}"
